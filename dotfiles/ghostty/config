@@ -1,0 +1,7 @@
+theme = Dracula+
+window-inherit-font-size=false
+font-family = Berkeley Mono
+font-style = Regular
+font-size = 18
+background-opacity = 0.5
+background-blur-radius = 20
