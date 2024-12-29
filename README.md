@@ -66,12 +66,6 @@ macDevSetup/
 
 ---
 
-## 🎥 Demo & Screenshots
-
-![Setup Animation](https://user-images.githubusercontent.com/placeholder/setup.gif)
-
----
-
 ## 🛠️ Contributing
 
 Feel free to submit issues or pull requests to improve this repository. Let's make macDevSetup even better!
