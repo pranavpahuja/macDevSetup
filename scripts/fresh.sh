@@ -33,3 +33,13 @@ brew install maccy
 
 echo "3 -> keyclu"
 brew install --cask keyclu
+
+echo "4 -> mattermost"
+brew install --cask mattermost
+
+echo "5 -> Docker"
+brew install --cask docker
+
+echo "6 -> fortune and cowsay"
+brew install fortune
+brew install cowsay
