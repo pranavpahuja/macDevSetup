@@ -37,3 +37,6 @@ brew install --cask keyclu
 echo "4 -> fortune and cowsay"
 brew install fortune
 brew install cowsay
+
+echo "5 -> ghostty"
+brew install --cask ghostty
