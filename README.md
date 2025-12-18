@@ -55,8 +55,8 @@ macDevSetup/
 ## ⚙️ Configuration Details
 
 ### Ghostty
-- Configuration Path: `/Users/<your_username>/Library/Application\ Support/com.mitchellh.ghostty/config`
-- Customize your Ghostty workflows in `dotfiles/ghostty/config`.
+- Configuration Step: `(menu bar) Ghostty -> Settings... OR CMD+,`
+- Customize your Ghostty workflows in `the opened text editor`
 
 ### Zsh (with Oh-My-Zsh)
 - Configuration File: `dotfiles/zsh/.zshrc`
