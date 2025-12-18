@@ -6,6 +6,8 @@
 
 ---
 
+- **<--Newly Added: Homebrew maintenace commands info-->**
+
 ## ✨ Features
 
 - **Automated Setup**: Quickly install and configure essential tools and workflows.

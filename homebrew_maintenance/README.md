@@ -45,7 +45,7 @@ $ brew cleanup
 
 ## 🛠️ How to Use  
 
-1. Clone the script or copy the commands into your terminal.  
+1. Copy the commands into your terminal.  
 2. Execute the maintenance tasks as needed for your setup.  
 3. Keep your environment clean and optimized with regular maintenance! 💡  
 
@@ -53,12 +53,6 @@ $ brew cleanup
 
 ### 🌟 Pro Tip  
 Run these commands regularly to avoid clutter and outdated dependencies!  
-
----
-
-## 💻 Animated Demo  
-
-![Homebrew Maintenance](https://dummyimage.com/800x400/ddd/555&text=Animated+Homebrew+Demo)
 
 ---
 
